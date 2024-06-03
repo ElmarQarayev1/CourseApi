@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{97A67FCE-EB80-4C91-B7AB-3B47A288C8D3}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CourseApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CourseApi/Controllers/CoursesController.cs">
+    <Files>
+      <File FileName="CourseApi/Program.cs" Line="26" Column="2" />
+      <File FileName="CourseApi/Controllers/CoursesController.cs" Line="67" Column="10" />
+      <File FileName="CourseApi/Data/Entities/Course.cs" Line="16" Column="1" />
+      <File FileName="CourseApi/appsettings.json" Line="13" Column="1" />
+      <File FileName="CourseApi/AppDbContext.cs" Line="27" Column="1" />
+      <File FileName="CourseApi/Migrations/20240603220838_CourseCreated.cs" Line="18" Column="10" />
+      <File FileName="CourseApi/Dtos/CourseDtos/CourseGetAllDto.cs" Line="10" Column="1" />
+      <File FileName="CourseApi/Dtos/CourseDtos/CourseGetIdDto.cs" Line="10" Column="1" />
+      <File FileName="CourseApi/Dtos/CourseDtos/CourseCreateDto.cs" Line="6" Column="33" />
+      <File FileName="CourseApi/Dtos/CourseDtos/CourseUpdateDto.cs" Line="6" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CourseApi" expanded="True">
+            <Node name="CourseApi">
+              <Node name="Controllers" expanded="True">
+                <Node name="CoursesController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+              <Node name="Dtos" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
